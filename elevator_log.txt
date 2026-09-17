@@ -1,0 +1,15 @@
+[21:53:45.270] === Elevator Control System — Log Started ===
+[21:53:45.271] System: Initialising — 2 elevators, 8 floors
+[21:53:45.271] System: Message channel created (id=1)
+[21:53:45.271] Request Manager: Thread started — channel 1
+[21:53:45.271] Elevator 1: Thread started — standing at floor 1
+[21:53:45.271] System: All threads started — ready for commands
+[21:53:45.271] Elevator 2: Thread started — standing at floor 1
+[21:53:45.272] Input: Thread started — connection id=1
+[22:03:37.351] Request Manager: QUIT received — initiating shutdown
+[22:03:37.351] Request Manager: Thread exiting
+[22:03:37.351] Elevator 1: Thread exiting
+[22:03:37.351] Elevator 2: Thread exiting
+[22:03:37.351] Input: Thread exiting
+[22:03:37.589] System: All threads joined — shutting down
+[22:03:37.589] === Elevator Control System — Log Ended ===
